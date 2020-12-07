@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on healthcare analytics and anomaly detection.
 - 🌱 I’m currently learning causal networks, image segmentation, and natural language processing. 
 - 💬 Ask me about cancer resistance & combination therapy, healthcare analytics using ML/DL/Causal networks.
-- 📫 How to reach me: rahul.epfl@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahulveettil/)
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@rahul.epfl)
   - :office: [LinkedIn](https://www.linkedin.com/in/rahulveettil/)
