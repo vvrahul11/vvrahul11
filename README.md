@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on healthcare analytics and anomaly detection.
 - 🌱 I’m currently learning causal networks, image segmentation, and natural language processing. 
 - 💬 Ask me about cancer resistance & combination therapy, healthcare analytics using ML/DL/Causal networks.
@@ -13,6 +11,4 @@ Here are some ideas to get you started:
 
 [![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=vvrahul11&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvrahul11)](https://github.com/anuraghazra/github-readme-stats)
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rahul.epfl/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rahul.epfl/0" alt="Recent Article 0">
+#<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rahul.epfl/0"><img src="https://github-readme-medium-recent-#article.vercel.app/medium/@rahul.epfl/0" alt="Recent Article 0">
