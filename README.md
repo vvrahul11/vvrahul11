@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
+
 **vvrahul11/vvrahul11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on healthcare analytics and anomaly detection.
+- 🌱 I’m currently learning causal networks, image segmentation, and natural language processing. 
+- 💬 Ask me about cancer resistance & combination therapy, healthcare analytics using ML/DL/Causal networks.
+- 📫 How to reach me: rahul.epfl@gmail.com
+- 📫 How to find me: 
+  - :bulb: [Medium articles](https://medium.com/@rahul.epfl)
+  - :office: [LinkedIn](https://www.linkedin.com/in/rahulveettil/)
+  - :speaker: [Publications](https://scholar.google.com/citations?user=Pb0zFcQAAAAJ&hl=en)
+
+[![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=vvrahul11&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvrahul11)](https://github.com/anuraghazra/github-readme-stats)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rahul.epfl/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rahul.epfl/0" alt="Recent Article 0">
