@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on healthcare analytics and anomaly detection.
-- 🌱 I’m currently learning causal networks, image segmentation, and natural language processing. 
+- 🌱 I’m currently learning natural language processing. 
 - 💬 Ask me about cancer resistance & combination therapy, healthcare analytics using ML/DL/Causal networks.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahulveettil/)
   
