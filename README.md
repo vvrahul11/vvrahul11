@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning natural language processing. 
 - 💬 Ask me about cancer resistance & combination therapy, healthcare analytics using ML/DL/Causal networks.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahulveettil/)
+- Blog posts: https://biolactosil.medium.com/
   
 [![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=vvrahul11&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
