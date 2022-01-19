@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Veettil</h1>
 <h3 align="center">Data scientist / Bioinformatician</h3>
 
-- 💻 I’m currently working on manufacturing analytics, healthcare analytics, and anomaly detection.
-- 💬 Ask me about cancer resistance & combination therapy, and ML/DL/Graphical models.
+- 💻 I work with clients to develop holistic data products for decision-making using machine learning. 
 - ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/rahulveettil/)
 - 📘 Blog posts: https://biolactosil.medium.com/
 
