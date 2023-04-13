@@ -2,7 +2,7 @@
 
 - 💻 I work with clients to develop holistic data products for decision-making using machine learning. 
 - ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/rahulveettil/)
-- 📘 Blog posts: https://biolactosil.medium.com/
+- 📘 Blog posts: [Blog posts](https://rahulveettil.medium.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvrahul11" alt="seutao" /> </p>
   
